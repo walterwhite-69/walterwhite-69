@@ -9,7 +9,7 @@ Smol 🤏 Developer |
 ![walterwhite-69's GitHub stats](https://github-readme-stats.vercel.app/api?username=walterwhite-69&show_icons=true&hide_title=true&count_private=true&theme=radical)
   
 - **Public Repositories:** 9  
-- **Stars:** [![Stargazers](https://img.shields.io/github/stars/walterwhite-69?style=social)](https://github.com/walterwhite-69?tab=repositories)
+- [![Stargazers](https://img.shields.io/github/stars/walterwhite-69?style=social)](https://github.com/walterwhite-69?tab=repositories)
 - **Followers:** 6  
 - **Following:** 0  
 - **GitHub Since:** 2022  
