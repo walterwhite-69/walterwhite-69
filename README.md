@@ -1,6 +1,5 @@
-# 🎨 Vibin' & designin'
-
-Hey there! I'm **walter** — a small designer and student who codes for the vibe.  
+##Hey there!
+I'm **walter** — a small designer and student who codes for the vibe.  
 Smol 🤏 Developer | 
 
 ---
