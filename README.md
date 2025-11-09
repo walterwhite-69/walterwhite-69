@@ -1,4 +1,4 @@
-##Hey there!
+## Hey there!/n
 I'm **walter** — a small designer and student who codes for the vibe.  
 Smol 🤏 Developer | 
 
