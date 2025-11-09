@@ -1,4 +1,4 @@
-## Hey there!/n
+## Hey there!
 I'm **walter** — a small designer and student who codes for the vibe.  
 Smol 🤏 Developer | 
 
@@ -9,9 +9,9 @@ Smol 🤏 Developer |
   
 - **Public Repositories:** 9  
 - [![Stargazers](https://img.shields.io/github/stars/walterwhite-69?style=social)](https://github.com/walterwhite-69?tab=repositories)
-- **Followers:** 6  
-- **Following:** 0  
-- **GitHub Since:** 2022  
+- [![Followers](https://img.shields.io/badge/Followers-6-blue)](https://github.com/walterwhite-69?tab=followers)
+- [![Following](https://img.shields.io/badge/Following-0-lightgrey)](https://github.com/walterwhite-69?tab=following)
+ - **GitHub Since:** 2022  
 - **Profile:** [walterwhite-69](https://github.com/walterwhite-69)
 
 ---
