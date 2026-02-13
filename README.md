@@ -9,10 +9,10 @@ Smol 🤏 Developer |
 
   
 - [![Stargazers](https://img.shields.io/github/stars/walterwhite-69?style=for-the-badge&logo=github)](https://github.com/walterwhite-69?tab=repositories)
-- [![Followers](https://img.shields.io/badge/Followers-6-%23007acc?style=for-the-badge&logo=github)](https://github.com/walterwhite-69?tab=followers)
-- [![Following](https://img.shields.io/badge/Following-0-%239e9e9e?style=for-the-badge&logo=github)](https://github.com/walterwhite-69?tab=following)
+- [![Followers](https://img.shields.io/github/followers/walterwhite-69?style=for-the-badge&logo=github&logoColor=white&color=007acc)](https://github.com/walterwhite-69?tab=followers)
+- [![Following](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=9e9e9e&label=Following&query=following&url=https://api.github.com/users/walterwhite-69)](https://github.com/walterwhite-69?tab=following)
 - [![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2022-%23e1e4e8?style=for-the-badge&logo=github)](https://github.com/walterwhite-69)
-- [![Public Repositories](https://img.shields.io/badge/Public%20Repositories-9-%23f6b93b?style=for-the-badge&logo=github)](https://github.com/walterwhite-69?tab=repositories)
+- [![Public Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=f6b93b&label=Public%20Repositories&query=public_repos&url=https://api.github.com/users/walterwhite-69)](https://github.com/walterwhite-69?tab=repositories)
 - [![Profile](https://img.shields.io/badge/Profile-walterwhite--69-%2300aaff?style=for-the-badge&logo=github)](https://github.com/walterwhite-69)
 
 
