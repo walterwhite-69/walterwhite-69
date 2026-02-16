@@ -14,7 +14,7 @@ Smol 🤏 Developer |
 - [![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2022-%23e1e4e8?style=for-the-badge&logo=github)](https://github.com/walterwhite-69)
 - [![Public Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=f6b93b&label=Public%20Repositories&query=public_repos&url=https://api.github.com/users/walterwhite-69)](https://github.com/walterwhite-69?tab=repositories)
 - [![Profile](https://img.shields.io/badge/Profile-walterwhite--69-%2300aaff?style=for-the-badge&logo=github)](https://github.com/walterwhite-69)
-
+- ![Profile Views](https://komarev.com/ghpvc/?username=walterwhite-69&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
 
 ---
 
