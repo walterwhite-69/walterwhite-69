@@ -36,8 +36,7 @@ Smol 🤏 Developer |
 
 ---
 
-## 📡 Connect
-[![Discord](https://img.shields.io/badge/Discord-%23%234285f4?style=for-the-badge&logo=discord)](https://discord.gg/rgWcEw5G8a)
+
 
 
 ---
