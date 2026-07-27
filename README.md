@@ -1,10 +1,7 @@
-## Hey there!
-I'm **walter** — a small designer and student who codes for the vibe.  
-Smol 🤏 Developer | 
-
+## Hi
 ---
 
-## 🌟 GitHub Stats
+##  GitHub Stats
 ![walterwhite-69's GitHub stats](https://readme-two-sand.vercel.app/api?username=walterwhite-69&show_icons=false&hide_title=true&count_private=true&theme=dark&hide_border=true)
 
   
@@ -18,33 +15,19 @@ Smol 🤏 Developer |
 
 ---
 
-## 🎨 About Me
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Poppins&size=45&duration=2000&pause=1000&color=4CAF50&center=true&vCenter=true&width=1200&height=180&lines=Designer+first%2C+coder+for+fun%21;Currently+a+student%2C+exploring+tech+and+creativity.%3BNot+chasing+big+code+lately%E2%80%94just+following+the+vibe.)
+## About Me
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=45&duration=2000&pause=1000&color=4CAF50&center=true&vCenter=true&width=1200&height=180&lines=Professional+bug+creator;Ctrl%2BC+%E2%86%92+Ctrl%2BV+engineer;99.1%25+pure+spaghetti+code;Currently+cooking+random+projects.)
 
 
 
 
 ---
 
-## 🛠️ Skills & Stack
-- **Design:** UI/UX, web aesthetics
-- **Languages & Tools:**  
-  - Python  
-  - HTML, CSS, JS  
-  - React  
-- **Mostly:** Vibing with frontend and creative coding
-
----
-
+## Skills & Stack
+- a guy with no skill
 
 
 
 ---
 
-## 💬 Fun Facts
-- Left “real” coding for a while—now just here for the good vibes!
-- Always open for creative collabs and new design friends.
-
----
-
-> “Code for the vibe, not the grind.”  
+> “Cooking code, Serving bugs” 
